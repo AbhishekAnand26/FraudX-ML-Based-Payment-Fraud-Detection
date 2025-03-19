@@ -88,5 +88,5 @@ Contributions are welcome! Feel free to **open an issue** or **submit a pull req
 This project is licensed under the **[MIT License](LICENSE)**.
 
 ## 📧 Contact
-For queries or suggestions, please reach out at **[your.email@example.com](mailto:your.email@example.com)**.
+For queries or suggestions, please reach out at **[your.email@example.com](mailto:anand.abhiii26.@gmail.com)**.
 
